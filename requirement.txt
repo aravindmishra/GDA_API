@@ -1,0 +1,5 @@
+Django==2.1.2
+djangorestframework==3.9.0
+PyMysql==0.9.3
+django-cors-headers
+psycopg2

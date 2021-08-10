@@ -1,0 +1,16 @@
+[
+    {
+      "model": "user.StatusModel",
+      "pk": 1,
+      "fields": {
+        "status": "Active"
+      }
+    },
+    {
+      "model": "user.StatusModel",
+      "pk": 2,
+      "fields": {
+        "status": "In-Active"
+      }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+      "model": "product.CatogeryDetails",
+      "pk": 1,
+      "fields": {
+        "catogery": "Cosmetics Items",
+        "status":1
+      }
+    },
+    {
+      "model": "product.CatogeryDetails",
+      "pk": 2,
+      "fields": {
+        "catogery": "Food Items",
+        "status":1
+      }
+    },
+    {
+        "model": "product.CatogeryDetails",
+        "pk": 3,
+        "fields": {
+          "catogery": "Washing Items",
+          "status":1
+        }
+      }
+]
